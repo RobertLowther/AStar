@@ -1,3 +1,8 @@
+'''
+This code is been pulled from https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2
+and should be used for educational purposes only.
+'''
+
 class Node():
     """A node class for A* Pathfinding"""
 
